@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site </title>
-    <link>http://example.org/</link>
+    <link>https://dvesti.github.io/hugo/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2018</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Вторая- ы</title>
-          <link>http://example.org/post/second/</link>
+          <link>https://dvesti.github.io/hugo/post/second/</link>
           <pubDate>Wed, 28 Feb 2018 17:12:16 EET</pubDate>
           <author></author>
-          <guid>http://example.org/post/second/</guid>
+          <guid>https://dvesti.github.io/hugo/post/second/</guid>
           <description>&lt;p&gt;Это - то, что &lt;strong&gt;нужно&lt;/strong&gt;&amp;hellip;&lt;/p&gt;
 </description>
         </item>
@@ -24,10 +24,10 @@
       
         <item>
           <title>Первое- First</title>
-          <link>http://example.org/post/first/</link>
+          <link>https://dvesti.github.io/hugo/post/first/</link>
           <pubDate>Wed, 28 Feb 2018 17:12:16 EET</pubDate>
           <author></author>
-          <guid>http://example.org/post/first/</guid>
+          <guid>https://dvesti.github.io/hugo/post/first/</guid>
           <description>&lt;p&gt;Это - то, что &lt;strong&gt;нужно&lt;/strong&gt;&amp;hellip;&lt;/p&gt;
 </description>
         </item>

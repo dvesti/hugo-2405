@@ -1,0 +1,4 @@
+baseURL = "https://dvesti.github.io/hugo/"
+languageCode = "ru-ru"
+title = "Мой Hugo сайт"
+theme = "lanyon"

@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Мой Hugo сайт </title>
-    <link>https://dvesti.github.io/</link>
+    <link>https://dvesti.github.io/hugo/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2020</rights>
@@ -10,15 +10,15 @@
     
       <item>
         <title>Introducing Lanyon</title>
-        <link>https://dvesti.github.io/post/2014-01-02-introducing-lanyon/</link>
+        <link>https://dvesti.github.io/hugo/post/2014-01-02-introducing-lanyon/</link>
         <pubDate>Thu, 02 Jan 2014 00:00:00 UTC</pubDate>
         <author></author>
-        <guid>https://dvesti.github.io/post/2014-01-02-introducing-lanyon/</guid>
+        <guid>https://dvesti.github.io/hugo/post/2014-01-02-introducing-lanyon/</guid>
         <description>&lt;p&gt;Lanyon is an unassuming &lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It&amp;rsquo;s based on &lt;a href=&#34;http://getpoole.com&#34;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 &lt;h3 id=&#34;built-on-poole&#34;&gt;Built on Poole&lt;/h3&gt;
 &lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&#34;https://twitter.com/mdo&#34;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&#34;https://dvesti.github.io/404&#34;&gt;404&lt;/a&gt;, &lt;a href=&#34;https://dvesti.github.io/index.xml&#34;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&#34;https://dvesti.github.io/about&#34;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&#34;https://dvesti.github.io/hugo/404&#34;&gt;404&lt;/a&gt;, &lt;a href=&#34;https://dvesti.github.io/hugo/index.xml&#34;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&#34;https://dvesti.github.io/hugo/about&#34;&gt;example page&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
 &lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
 &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
@@ -45,10 +45,10 @@
     
       <item>
         <title>Example content</title>
-        <link>https://dvesti.github.io/post/2014-01-01-example-content/</link>
+        <link>https://dvesti.github.io/hugo/post/2014-01-01-example-content/</link>
         <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
         <author></author>
-        <guid>https://dvesti.github.io/post/2014-01-01-example-content/</guid>
+        <guid>https://dvesti.github.io/hugo/post/2014-01-01-example-content/</guid>
         <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;!-- raw HTML omitted --&gt;dis parturient montes&lt;!-- raw HTML omitted --&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -109,10 +109,10 @@
     
       <item>
         <title>What&#39;s Jekyll?</title>
-        <link>https://dvesti.github.io/post/2013-12-31-whats-jekyll/</link>
+        <link>https://dvesti.github.io/hugo/post/2013-12-31-whats-jekyll/</link>
         <pubDate>Tue, 31 Dec 2013 00:00:00 UTC</pubDate>
         <author></author>
-        <guid>https://dvesti.github.io/post/2013-12-31-whats-jekyll/</guid>
+        <guid>https://dvesti.github.io/hugo/post/2013-12-31-whats-jekyll/</guid>
         <description>&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&#34;https://github.com/mojombo/jekyll/blob/master/README.markdown&#34;&gt;the project&amp;rsquo;s readme&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [&amp;hellip;] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;

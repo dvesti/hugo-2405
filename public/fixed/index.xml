@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixeds on Мой Hugo сайт</title>
-    <link>http://www.example.com/fixed/</link>
+    <link>https://example.org/fixed/</link>
     <description>Recent content in Fixeds on Мой Hugo сайт</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language>
+    <language>en-us</language>
     
-	<atom:link href="http://www.example.com/fixed/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/fixed/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/fixed/about/</link>
+      <link>https://example.org/fixed/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/fixed/about/</guid>
+      <guid>https://example.org/fixed/about/</guid>
       <description>In the novel, The Strange Case of Dr. Jeykll and Mr. Hyde, Mr. Poole is Dr. Jekyll&amp;rsquo;s virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It&amp;rsquo;s made by @mdo.
 There are currently two themes built on Poole:
  Hyde Lanyon  Learn more and contribute on GitHub.
@@ -25,19 +25,19 @@ Setup Some fun facts about the setup of this project include:
     
     <item>
       <title>Another Fixed Page</title>
-      <link>http://www.example.com/fixed/altab/</link>
+      <link>https://example.org/fixed/altab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/fixed/altab/</guid>
+      <guid>https://example.org/fixed/altab/</guid>
       <description>This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.</description>
     </item>
     
     <item>
       <title>A Menu Page Using Hugo Menu Templates</title>
-      <link>http://www.example.com/fixed/mpage/</link>
+      <link>https://example.org/fixed/mpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/fixed/mpage/</guid>
+      <guid>https://example.org/fixed/mpage/</guid>
       <description>This is example of a page from site menu. Pages from &amp;lsquo;main&amp;rsquo; menu appear just above the fixed pages from sidebar. Checkout official documentation about Menu Templates.</description>
     </item>
     

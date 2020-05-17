@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/fixed/about/</loc>
+    <loc>https://example.org/fixed/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/fixed/altab/</loc>
+    <loc>https://example.org/fixed/altab/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/</loc>
+    <loc>https://example.org/post/</loc>
     <lastmod>2020-05-14T18:05:23+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/2020-05-14-privet/</loc>
+    <loc>https://example.org/post/2020-05-14-privet/</loc>
     <lastmod>2020-05-14T18:05:23+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2020-05-14T18:05:23+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/2020-05-13-a/</loc>
+    <loc>https://example.org/post/2020-05-13-a/</loc>
     <lastmod>2020-05-13T02:04:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/2020-05-13-privetstvie/</loc>
+    <loc>https://example.org/post/2020-05-13-privetstvie/</loc>
     <lastmod>2020-05-12T21:44:45+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/2014-01-02-introducing-lanyon/</loc>
+    <loc>https://example.org/post/2014-01-02-introducing-lanyon/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/2014-01-01-example-content/</loc>
+    <loc>https://example.org/post/2014-01-01-example-content/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/2013-12-31-whats-jekyll/</loc>
+    <loc>https://example.org/post/2013-12-31-whats-jekyll/</loc>
     <lastmod>2013-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/fixed/mpage/</loc>
+    <loc>https://example.org/fixed/mpage/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/fixed/</loc>
+    <loc>https://example.org/fixed/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
   
 </urlset>

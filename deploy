@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=my-dvesti
+HOST=my-github.com         
+DIR=dvesti/hugo/   # the directory where your web site files should go
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0

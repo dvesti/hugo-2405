@@ -1,4 +1,4 @@
-baseURL = "https://dvesti.github.io/"
+baseURL = "_%%WWWPATH%%_"
 languageCode = "ru-ru"
 title = "Мой Hugo сайт"
 theme = "lanyon-hugo"

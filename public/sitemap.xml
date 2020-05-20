@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/fixed/about/</loc>
   </url>
   
@@ -12,45 +13,85 @@
   
   <url>
     <loc>https://dvesti.github.io/post/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/fixed/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dvesti.github.io/hugo/fixed/altab/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dvesti.github.io/hugo/post/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
     <lastmod>2020-05-14T18:05:23+03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/post/2020-05-14-privet/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/post/2020-05-14-privet/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
     <lastmod>2020-05-14T18:05:23+03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
     <lastmod>2020-05-14T18:05:23+03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/post/2020-05-13-a/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/post/2020-05-13-a/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
     <lastmod>2020-05-13T02:04:31+03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/post/2020-05-13-privetstvie/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/post/2020-05-13-privetstvie/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
     <lastmod>2020-05-12T21:44:45+03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/post/2014-01-02-introducing-lanyon/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/post/2014-01-02-introducing-lanyon/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/post/2014-01-01-example-content/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/post/2014-01-01-example-content/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/post/2013-12-31-whats-jekyll/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/post/2013-12-31-whats-jekyll/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
     <lastmod>2013-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://dvesti.github.io/fixed/mpage/</loc>
   </url>
   
@@ -64,6 +105,21 @@
   
   <url>
     <loc>https://dvesti.github.io/tags/</loc>
+=======
+    <loc>https://dvesti.github.io/hugo/fixed/mpage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dvesti.github.io/hugo/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dvesti.github.io/hugo/fixed/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dvesti.github.io/hugo/tags/</loc>
+>>>>>>> 08fc6b2b263a748f5bb0750ad86d258d8ba7a396
   </url>
   
 </urlset>

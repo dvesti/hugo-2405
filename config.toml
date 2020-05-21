@@ -1,4 +1,4 @@
-baseURL = "_%%WWWPATH%%_"
+baseURL = "http://example.com"
 languageCode = "ru-ru"
 title = "Мой Hugo сайт"
 theme = "lanyon-hugo"
